@@ -37,7 +37,7 @@ export default function App() {
       >
         <img src={foto} alt="Foto de perfil" />
         <h1>Dra. Yanina Rodriguez</h1>
-        <p>Ginecóloga y Especialista en Fertilidad</p>
+        <p>Ginecología, Fertilidad y Cirugía minimamente invasiva.</p>
       </motion.div>
 
       <div className="links">
