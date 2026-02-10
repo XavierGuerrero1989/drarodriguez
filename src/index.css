@@ -8,12 +8,13 @@ body {
   min-height: 100vh;
 
   /* Gradiente suave, profesional */
-  background: linear-gradient(
+ background: linear-gradient(
   180deg,
   #fffdf9 0%,
-  #f7f2f5 45%,
-  #f0e4eb 100%
+  #f1d6e3 45%,
+  #e7b7cf 100%
 );
+
 
 
   display: flex;
