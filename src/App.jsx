@@ -4,7 +4,7 @@ import foto from "./assets/foto.png";
 
 const LINKS = [
   {
-    label: "📸 Instagram",
+    label: "📸 Instagram - @drayaninarodrigez",
     url: "https://www.instagram.com/drayaninarodriguez?utm_source=qr",
   },
   {
