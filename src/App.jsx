@@ -5,7 +5,7 @@ import foto from "./assets/foto.png";
 const LINKS = [
   {
     label: "📸 Instagram",
-    url: "https://www.instagram.com/drayaninarodriguez",
+    url: "https://www.instagram.com/drayaninarodriguez?utm_source=qr",
   },
   {
     label: "🏥 Consultorio particular – Ginecología y Fertilidad (Canning)",
